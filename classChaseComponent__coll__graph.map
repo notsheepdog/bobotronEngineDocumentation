@@ -1,0 +1,4 @@
+<map id="ChaseComponent" name="ChaseComponent">
+<area shape="rect" id="node1" title="This component gives its GameEntity another GameEntity to chase/follow." alt="" coords="5,80,143,107"/>
+<area shape="rect" id="node2" href="$structComponent.html" title="Represents a component to be added to a game entity." alt="" coords="25,5,123,32"/>
+</map>

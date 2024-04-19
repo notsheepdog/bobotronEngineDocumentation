@@ -1,0 +1,7 @@
+<map id="include/ChaseComponent.hpp" name="include/ChaseComponent.hpp">
+<area shape="rect" id="node1" title="Represents a ChaseComponent." alt="" coords="263,5,479,32"/>
+<area shape="rect" id="node2" href="$GameEntity_8hpp.html" title="Represents a GameEntity." alt="" coords="283,80,459,107"/>
+<area shape="rect" id="node3" href="$LaunchComponent_8hpp.html" title="Represents a LaunchComponent." alt="" coords="5,155,228,181"/>
+<area shape="rect" id="node4" href="$SDLGraphicsProgram_8hpp.html" title="Represents an SDLGraphicsProgram." alt="" coords="252,155,491,181"/>
+<area shape="rect" id="node5" href="$WanderComponent_8hpp.html" title="Represents a WanderComponent." alt="" coords="515,155,740,181"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TextureComponent" name="TextureComponent">
+<area shape="rect" id="node1" title="Represents the texture of a game entity." alt="" coords="5,80,151,107"/>
+<area shape="rect" id="node2" href="$structComponent.html" title="Represents a component to be added to a game entity." alt="" coords="29,5,127,32"/>
+</map>
