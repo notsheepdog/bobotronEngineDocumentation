@@ -1,0 +1,8 @@
+player 184 184
+grunt 0 1 10 10 
+grunt 1 1 130 10
+grunt 1 1 260 10
+grunt 1 1 390 10
+sitfriendly 100 300
+sitfriendly 300 300
+standfriendly 100 200

@@ -1,0 +1,17 @@
+sitfriendly 0 0
+grunt 1 0 120 0
+grunt 1 1 360 0
+grunt 1 1 200 40
+standfriendly 280 40
+grunt 1 1 80 80
+standfriendly 40 120
+grunt 0 1 0 160
+player 160 160
+sitfriendly 280 160
+grunt 0 1 360 200
+sitfriendly 80 240
+grunt 1 1 280 280
+standfriendly 80 320
+grunt 1 1 0 360
+grunt 1 0 200 360
+sitfriendly 360 360

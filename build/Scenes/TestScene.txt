@@ -1,0 +1,10 @@
+player 184 184
+grunt 10 10 
+grunt 130 10
+grunt 260 10
+grunt 390 10
+grunt 10 390 
+grunt 130 390
+grunt 260 390
+grunt 390 390
+sitfriendly 300 300
