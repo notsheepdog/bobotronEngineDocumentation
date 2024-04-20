@@ -1,0 +1,8 @@
+<map id="Component" name="Component">
+<area shape="rect" id="node1" title="Represents a component to be added to a game entity." alt="" coords="357,5,455,32"/>
+<area shape="rect" id="node2" href="$classChaseComponent.html" title="This component gives its GameEntity another GameEntity to chase/follow." alt="" coords="5,80,143,107"/>
+<area shape="rect" id="node3" href="$classLaunchComponent.html" title="This component moves its GameEntity straight in one direction (automatically dies if it hits a wall)" alt="" coords="167,80,309,107"/>
+<area shape="rect" id="node4" href="$classTextureComponent.html" title="Represents the texture of a game entity." alt="" coords="333,80,479,107"/>
+<area shape="rect" id="node5" href="$classTransformComponent.html" title="Represents the transform of a game entity." alt="" coords="503,80,666,107"/>
+<area shape="rect" id="node6" href="$classWanderComponent.html" title="This component smoothly moves its GameEntity in random directions." alt="" coords="690,80,837,107"/>
+</map>
